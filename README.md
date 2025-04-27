@@ -20,14 +20,14 @@ O **Colheita Viva** é um projeto web desenvolvido utilizando **HTML** e **CSS**
 
 ### 💻 Desktop
 <div align="center">
-  <img height="200" src="https://github.com/Joaomarcellodev/ColheitaViva/blob/main/git/desktop.png?raw=true" alt="Prévia do Colheita Viva no Desktop" />
+  <img height="200" src="https://github.com/Joaomarcellodev/Colheita-Viva/blob/main/git/desktop.png?raw=true" alt="Prévia do Colheita Viva no Desktop" />
 </div>
 
 ---
 
 ### 📱 Mobile
 <div align="center">
-  <img height="400" src="https://github.com/Joaomarcellodev/ColheitaViva/blob/main/git/mobile.png?raw=true" alt="Prévia do Colheita Viva no Mobile" />
+  <img height="400" src="https://github.com/Joaomarcellodev/Colheita-Viva/blob/main/git/mobile.png?raw=true" alt="Prévia do Colheita Viva no Mobile" />
 </div>
 
 ---
